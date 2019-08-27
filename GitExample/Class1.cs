@@ -12,8 +12,8 @@ namespace GitExample
         {
             var x = 10;
             var y = 20;
-            var Sum = x + y;
-            return Sum;
+            var Add = x + y;
+            return Add;
         }
     }
 }
