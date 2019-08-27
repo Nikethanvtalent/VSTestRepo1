@@ -8,12 +8,10 @@ namespace GitExample
 {
   public  class Class1
     {
-        public int Add()
+        public int Add(int x, int y)
         {
-            int x = 10;
-            int y = 20;
-            int Sum = x + y;
-            return Sum;
+            
+            return x+y;
         }
     }
 }
