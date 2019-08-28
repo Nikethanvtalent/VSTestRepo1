@@ -15,6 +15,7 @@ namespace GitExample
             // again code added in Program class at Hub side
             //Code changed in Branch1 at VS local
             //Code changed in Branch2 at VS local
+            //Code changed in Branch2 at VS local
         }
     }
 }
