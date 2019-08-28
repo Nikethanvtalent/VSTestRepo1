@@ -17,6 +17,7 @@ namespace GitExample
             //Code changed in Branch2 at VS local
             //Code changed in Branch2 at VS local
             //code sending to local B1
+            //code sending to local B1
         }
     }
 }
